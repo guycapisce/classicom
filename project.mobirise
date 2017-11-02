@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 8,
+    "uniqCompNum": 16,
     "versionPublish": "4.4.0",
     "favicon": "",
     "noImageResize": "",
@@ -38,7 +38,7 @@
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Come</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Perchè</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Dove</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Chi</a></li> ",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-2\">Come</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content5-7\">Perchè</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#content4-6\">Dove</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Chi</a></li> ",
           "buttons": "   <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -256,6 +256,155 @@
           ],
           "_name": "content4",
           "_anchor": "content4-6"
+        },
+        {
+          "text": "<p>Attraverso una comunicazione focalizzata sul pubblico, esistente e potenziale, possiamo contribuire al consolidamento positivo di festival, eventi, rassegne e stagioni, della loro immagine e di quella dei territori che le producono, presso il pubblico nazionale ed internazionale.\n</p><p>Il marketing ed il branding territoriale sono sempre più strettamente collegati alle iniziative culturali. Queste si pongono come opportunità significative in grado di rafforzare l'identità dei luoghi che le ospitano e le loro risorse distintive, tangibili ed intangibili. In un mercato sempre più competitivo, influenzato da dinamiche in evoluzione rapida ed imprevedibile, il successo \"dipende soprattutto dalla capacità di un luogo (o di una destinazione) di differenziarsi e concentrarsi strategicamente sulle proprie risorse distintive per ottenere e rafforzare il suo vantaggio competitivo\" (Pechlaner, Fisher e Hammann, 2006).</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-8"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Il pubblico",
+          "caption": "<p>Lavoriamo per contribuire ad incrementare il numero e la diversità del pubblico di eventi culturali, concerti di musica classica ed operistica, attraverso strategie e le azioni orientate all'allargamento del nuovo pubblico ed alla fidelizzazione di quello esistente.\n</p><p>\n</p><p>Utilizzando una comunicazione mirata, promuoviamo l'accesso alla cultura, e quindi alla vitalità del settore, attraverso:</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Analisi",
+          "caption1": "Analisi dei dati di pubblico",
+          "title2": "Audience",
+          "caption2": "Pianificazione di azioni di sviluppo dell'audience",
+          "title3": "Nuovi utenti",
+          "caption3": "Individuazione di nuovi utenti e di mercati potenziali",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-b"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Pubblico",
+          "caption1": "Ideazione di iniziative di comunicazione e di eventi mirati ai vari tipi di pubblico",
+          "title2": "Giovani",
+          "caption2": "Azioni specifice volte al coinvolgimento del pubblico giovane&nbsp;<br>",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-c"
+        },
+        {
+          "text": "<p>Una piccola porzione di popolazione partecipa regolarmente, la maggior parte addirittura raramente, ad eventi culturali e musicali, spesso organizzati col sostegno di enti pubblici e fondazioni. \n</p><p>Ci adoperiamo perchè sempre più persone partecipino a spettacoli di musica classica ed operistica, nostri grandi patrimoni immateriali. Vogliamo che sia il pubblico Italiano che gli ospiti stranieri conoscano ed apprezzino gli eventi culturali che il nostro territorio offre, e sempre più persone, soprattutto giovani, contribuiscano alla loro produzione, assicurando la quantita e varietà dell'offerta e l'alto livello artistico che da sempre contraddistinguono la produzione di musica dal vivo nel nostro paese.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>Studiamo il pubblico esistente e quello potenziale, partendo dalle loro esigenze e servendoci di strumenti ed azioni mirate per canalizzare e comunicare direttamente con esso, perchè crediamo che questa sia la chiave per eventi di successo, sempre più rilevanti in termini di pubblico, di sostenibilità e continuità nel tempo.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-f"
         },
         {
           "_params": {
